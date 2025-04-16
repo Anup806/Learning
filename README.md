@@ -1,6 +1,8 @@
 
 # Day_01
 
+
+
 message = '''
 Hi mark,
 
@@ -8,6 +10,8 @@ This is Anup Rai from xyz IT company
 
 blah blah blah...............
 '''
+
+
 
 #sum of int numbers
 
@@ -20,6 +24,9 @@ b=int(input("Enter value of b :- \n"))
 print(f'The sum of {a} and {b} is {sum(a, b)}')
 
 
+
+
+
 #sum of int numbers
 
 def sum(a, b):
@@ -29,6 +36,8 @@ a=float(input("Enter value of a :-\n"))
 b=float(input("Enter value of b :- \n"))
 
 print(f'The sum of {a} and {b} is {sum(a, b)}')
+
+
 
 
 #switch_example
